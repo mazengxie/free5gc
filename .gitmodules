@@ -24,7 +24,7 @@
 	url = https://github.com/free5gc/smf.git
 [submodule "src/udm"]
 	path = src/udm
-	url = https://github.com/free5gc/udm.git
+	url = https://github.com/mazengxie/udm.git
 [submodule "src/udr"]
 	path = src/udr
 	url = https://github.com/free5gc/udr.git
